@@ -39,7 +39,7 @@ object **Carlos Araujo** {
 </a>
 
 [website]: https://ch.dev.br
-[linkedin]: https://www.linkedin.com/in/carlos-ara%C3%BAjo-74a9a4178/
+[linkedin]: 
 <br>
 
 #### Rede Sociais!
