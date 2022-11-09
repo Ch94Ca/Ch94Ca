@@ -12,7 +12,8 @@ object **Carlos Araujo** {
  val acknowledgements = "Desenvolvedor Back-end"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("C++", "C#", "JavaScript", "C") 
+ val languages = listOf("Python", "C++", "C#", "JavaScript", "C")
+ val libs = listOf("Airflow", "PySpark", "Pandas", "Boost", "OpenMP") 
 
 }
 ```
